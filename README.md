@@ -12,3 +12,8 @@ $cd lines/
 $make
 ```
 to compile the code.
+#Running
+You can run the program with
+```
+./lines
+```
