@@ -12,7 +12,7 @@ $cd lines/
 $make
 ```
 to compile the code.
-#Running
+# Running
 You can run the program with
 ```
 ./lines
